@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **yashica-patodia/yashica-patodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 <hr>
 <p align="center">
-<a href="https://www.linkedin.com/in/yashica-patodia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thealphadollar/thealphadollar/master/assets/linkedin.svg" alt="thealphadollar" height="30" width="30" /></a>
-<a href="https://www.facebook.com/yashica.patodia.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thealphadollar/thealphadollar/master/assets/facebook.svg" alt="thealphadollar" height="30" width="30" /></a>
-<a href="https://www.instagram.com/yashica_p47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/thealphadollar/thealphadollar/master/assets/instagram.svg" alt="thealphadollar" height="30" width="30" /></a>
-<a href="https://medium.com/@yashica1002" target="blank"><img align="center" src="https://raw.githubusercontent.com/thealphadollar/thealphadollar/master/assets/medium.svg" alt="@thealphadollar" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/yashica-patodia/" target="blank"><img align="center" src="https://github.com/yashica-patodia/yashica-patodia/blob/main/asset/linkedin.svg" alt="@yashica-patodia" height="30" width="30" /></a>
+<a href="https://www.facebook.com/yashica.patodia.7/" target="blank"><img align="center" src="https://github.com/yashica-patodia/yashica-patodia/blob/main/asset/facebook.svg" alt="@yashica-patodia" height="30" width="30" /></a>
+<a href="https://www.instagram.com/yashica_p47/" target="blank"><img align="center" src="https://github.com/yashica-patodia/yashica-patodia/blob/main/asset/instagram.svg" alt="@yashica-patodia" height="30" width="30" /></a>
+<a href="https://medium.com/@yashica1002" target="blank"><img align="center" src="https://github.com/yashica-patodia/yashica-patodia/blob/main/asset/medium.svg" alt="@yashica-patodia" height="30" width="30" /></a>
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
