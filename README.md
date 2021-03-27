@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashica-patodia&theme=vue&hide=css,tcl,html"></img>
 <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=yashica-patodia&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
 
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+> Credits to [@anuragharza](https://github.com/anuraghazra) for [github-read-stats](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr>
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@yashica1002" target="blank"><img align="center" src="https://github.com/yashica-patodia/yashica-patodia/blob/main/asset/medium.svg" alt="@yashica-patodia" height="30" width="30" /></a>
 </p>
 <hr>
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 > Credits to [@anuragharza](https://github.com/anuraghazra) for [github-read-stats](https://github.com/anuraghazra/github-readme-stats)
 
