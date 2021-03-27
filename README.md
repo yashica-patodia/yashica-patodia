@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey there 👋! Glad to see you here :heart:</h1>
-<h3 align="center">I'm a sophomore at IIT Kharagpur and have interests in  automation, psychology, and dance :star_struck:</h3>
+<h3 align="center">I'm a sophomore at IIT Kharagpur and have interests in  automation, psychology, playing the synthesizer and dance :star_struck:</h3>
 
+*Mind Has No Gender*
 - 📝 I  write articles on [yashica-blogs](https://yashica-patodia.github.io//blogs/)
 - 📫 I would enjoy listening to your thoughts and ideas over a cup of coffee, please connect at **yashica1002@gmail.com**
+-  😄 Pronouns:She/her
+  
 
 
 <img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashica-patodia&theme=vue&hide=css,tcl,html"></img>
@@ -35,8 +38,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/yashica_p47/" target="blank"><img align="center" src="https://github.com/yashica-patodia/yashica-patodia/blob/main/asset/instagram.svg" alt="@yashica-patodia" height="30" width="30" /></a>
 <a href="https://medium.com/@yashica1002" target="blank"><img align="center" src="https://github.com/yashica-patodia/yashica-patodia/blob/main/asset/medium.svg" alt="@yashica-patodia" height="30" width="30" /></a>
 </p>
-
+<hr>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 > Credits to [@anuragharza](https://github.com/anuraghazra) for [github-read-stats](https://github.com/anuraghazra/github-readme-stats)
-<hr>
+
 
