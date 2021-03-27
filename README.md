@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there 👋! Glad to see you here :heart:</h1>
 <h3 align="center">I'm a sophomore at IIT Kharagpur and have interests in  automation, psychology, and dance :star_struck:</h3>
 
-- 📝 I  write articles on [https://yashica-patodia.github.io//blogs/](https://yashica-patodia.github.io//blogs/)
+- 📝 I  write articles on [yashica-blogs](https://yashica-patodia.github.io//blogs/)
 - 📫 I would enjoy listening to your thoughts and ideas over a cup of coffee, please connect at **yashica1002@gmail.com**
 
 
