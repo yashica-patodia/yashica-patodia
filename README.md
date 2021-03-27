@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns:She/her
 - ⚡ I strongly believe that **Mind Has No Gender**
   
-
+### My Communities <img src="https://avatars.githubusercontent.com/u/15631779?s=280&v=4" alt="KOSS" width="25" height="25"/>
 
 <img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashica-patodia&theme=vue&hide=css,tcl,html"></img>
 <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=yashica-patodia&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
