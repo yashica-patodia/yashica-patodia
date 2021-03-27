@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 *Mind Has No Gender*
 - 📝 I  write articles on [yashica-blogs](https://yashica-patodia.github.io//blogs/)
 - 📫 I would enjoy listening to your thoughts and ideas over a cup of coffee, please connect at **yashica1002@gmail.com**
--  😄 Pronouns:She/her
+- 😄 Pronouns:She/her
+- ⚡ I strongly believe that **Mind Has No Gender**
   
 
 
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-> Credits to [@anuragharza](https://github.com/anuraghazra) for [github-read-stats](https://github.com/anuraghazra/github-readme-stats)
+
 
 
